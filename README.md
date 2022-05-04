@@ -1,4 +1,4 @@
-# YouTube toplulukları için Discord moderasyon botu
+# YouTube Toplulukları İçin Discord Moderasyon Botu
 **Versiyon:** `v1.0`
 
 ### ✨ Özellikler
