@@ -21,7 +21,7 @@ ServerInfo ile sunucu detaylarının tamamını görün.
 UserInfo ile belirttiğiniz kullanıcının bilgilerini görün.
 
 ### 💻 Kullanım
-Botu kullanmak için botun **About Me (Hakkımda)** kısmına `Copyright 2022 @ axolotlinspace - Kaynak: http://gg.gg/dmbfyc` şeklinde belirtmeniz gerekmektedir. Aksi takdirde MPL (Mozilla Public License) devreye girer.
+Botu kullanmak için botun **About Me (Hakkımda)** kısmına `Copyright 2022 © axolotlinspace - Kaynak: https://github.com/axolotlinspace/discord-moderation-bot-for-youtube-communities` şeklinde belirtmeniz gerekmektedir. Aksi takdirde MPL (Mozilla Public License) devreye girer.
 
 Kurulumu yaparken `config.json` dosyasını eksik ve doğru bir şekilde doldurup `.env` dosyanıza `token=<BOTUNUZUN_TOKENI>` şeklinde tokeninizi yerleştirmelisiniz.
 
